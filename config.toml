@@ -1,3 +1,70 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://danislu.github.io"
+title = "Danislu"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+www.example.comgoogleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "danislu"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "MunifTanjim"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Minimo"
+
+[author.social]
+  codepen = ""
+  email = "danislu@gmail.com"
+  facebook = ""
+  github = "danislu"
+  instagram = "danislu2"
+  twitter = "danislu"
+  linkedin = "muniftanjim"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -70
+  identifier = "danislu"
+  url = "https://danislu.github.io"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
