@@ -12,8 +12,8 @@ preserveTaxonomyNames = true
 
 [params]
   description = "danislu"
-  dateFormat = "2006, Jan 2"
-  copyrightOwner = "MunifTanjim"
+  dateFormat = "2017, Sep 16"
+  copyrightOwner = "danislu"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -39,7 +39,7 @@ preserveTaxonomyNames = true
   facebook = ""
 
 [author]
-  name = "Minimo"
+  name = "Daniel"
 
 [author.social]
   codepen = ""
@@ -48,7 +48,7 @@ preserveTaxonomyNames = true
   github = "danislu"
   instagram = "danislu2"
   twitter = "danislu"
-  linkedin = "muniftanjim"
+  linkedin = "daniellundekvam"
 
 [permalinks]
   page = "/:slug/"
