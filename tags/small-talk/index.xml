@@ -16,8 +16,9 @@
       <pubDate>Sat, 16 Sep 2017 13:02:47 +0200</pubDate>
       
       <guid>https://danislu.github.io/post/welcome-message/</guid>
-      <description>Welcome I&amp;rsquo;m very happy to introduce my new website!
-It&amp;rsquo;s a static website that I have done in less than 3 hours with this Hugo tutorial</description>
+      <description> Welcome I&amp;rsquo;m very happy to introduce my new website!
+It&amp;rsquo;s a static website that I have done in less than 3 hours with this Hugo tutorial
+ function func() = list.map((item) = item.stuff);     from pygments.styles import get_all_styles  styles = list(get_all_styles())  print styles   </description>
     </item>
     
   </channel>
