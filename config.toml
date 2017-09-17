@@ -1,5 +1,5 @@
 baseURL = "https://danislu.github.io"
-title = "Danislu"
+title = "daniel lundekvam"
 copyright = ""
 
 theme = "minimo"
@@ -11,9 +11,9 @@ Paginate = 5
 preserveTaxonomyNames = true
 
 [params]
-  description = "danislu"
+  description = "utvikler, pappa, løper etc"
   dateFormat = "2017, Sep 16"
-  copyrightOwner = "danislu"
+  copyrightOwner = "daniel lundekvam"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
