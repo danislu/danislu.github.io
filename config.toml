@@ -1,4 +1,4 @@
-baseurl             = "https://danislu.github.io/"
+baseurl             = "https://lundekvam.io/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
