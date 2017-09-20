@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lundekvam.io/blog/welcome-message/</loc>
+    <lastmod>2017-09-20T23:07:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lundekvam.io/about/</loc>
     <lastmod>2017-09-20T22:47:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lundekvam.io/blog/</loc>
+    <lastmod>2017-09-20T23:07:29+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -19,6 +30,7 @@
   
   <url>
     <loc>https://lundekvam.io/</loc>
+    <lastmod>2017-09-20T23:07:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
