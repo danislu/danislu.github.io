@@ -1,7 +1,6 @@
 ---
-categories:
-  - Others
-title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
-date: "{{ .Date }}"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
 draft: true
 ---
+
