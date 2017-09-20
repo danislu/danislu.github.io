@@ -1,8 +1,8 @@
 ---
 title: "First Post"
 slug: "welcome-message"
-date: 2017-09-20T22:49:05+02:00
-draft: true
+date: 2017-09-20T23:07:29+02:00
+draft: false
 ---
 
 ## Welcome
