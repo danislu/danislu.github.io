@@ -3,14 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danislu.github.io/blog/welcome-message/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danislu.github.io/blog/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://danislu.github.io/about/</loc>
+    <lastmod>2017-09-20T22:47:16+02:00</lastmod>
   </url>
   
   <url>
@@ -19,32 +13,12 @@
   </url>
   
   <url>
-    <loc>https://danislu.github.io/tags/hugo/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danislu.github.io/categories/others/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danislu.github.io/tags/small-talk/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://danislu.github.io/tags/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://danislu.github.io/</loc>
-    <lastmod>2017-09-16T13:02:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
