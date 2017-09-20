@@ -5,4 +5,5 @@ draft: false
 ---
 
 I'm a software engineer/developer/architect as well as a dad, husband, runner etc.
+
 I work as a consultant for Bouvet in Bergen, Norway.
