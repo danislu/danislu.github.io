@@ -2,7 +2,7 @@
 title: "Where to Wizz"
 slug: "where-to-wizz"
 date: 2017-11-05T22:04:24+01:00
-draft: true
+draft: false
 ---
 
 I've been experimenting with react native... here is the result;
