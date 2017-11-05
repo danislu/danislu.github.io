@@ -6,10 +6,23 @@
     <description>Recent content on lundekvam.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 Nov 2017 13:04:24 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 22:04:24 +0100</lastBuildDate>
     
 	<atom:link href="https://lundekvam.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Where to Wizz</title>
+      <link>https://lundekvam.io/blog/where-to-wizz/</link>
+      <pubDate>Sun, 05 Nov 2017 22:04:24 +0100</pubDate>
+      
+      <guid>https://lundekvam.io/blog/where-to-wizz/</guid>
+      <description>I&amp;rsquo;ve been experimenting with react native&amp;hellip; here is the result;
+An app that shows the public restrooms in Bergen, and how far you are from them. I got the data from a public dataset on data.norge.no.
+Check out the code on Github and download the app on Google Play Store or the Apple App Store (comming soon-ish, when i get around to it).
+
+Since I added location tracking and admob ads google insist i have a privacy policy&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Where To Wizz - BGO</title>
