@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W2w on lundekvam.io</title>
+    <link>https://lundekvam.io/w2w/</link>
+    <description>Recent content in W2w on lundekvam.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Nov 2017 13:04:24 +0100</lastBuildDate>
+    
+	<atom:link href="https://lundekvam.io/w2w/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where To Wizz - BGO</title>
+      <link>https://lundekvam.io/w2w/privacypolicy/</link>
+      <pubDate>Sun, 05 Nov 2017 13:04:24 +0100</pubDate>
+      
+      <guid>https://lundekvam.io/w2w/privacypolicy/</guid>
+      <description>Privacy Policy lundekvam.io built the Where To Wizz Bgo app as an Ad Supported app. This SERVICE is provided by lundekvam.io at no cost and is intended for use as is.
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    
+  </channel>
+</rss>
