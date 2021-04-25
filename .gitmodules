@@ -1,3 +1,3 @@
-[submodule "themes/minimo"]
-	path = themes/minimo
-	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/uBlogger"]
+	path = themes/uBlogger
+	url = https://github.com/uPagge/uBlogger.git
