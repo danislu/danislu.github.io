@@ -1,4 +1,4 @@
-baseurl = "https://lundekam.io/"
+baseurl = "https://lundekvam.io/"
 title = "lundekvam.io"
 theme = "pulp"
 canonifyurls = true
