@@ -4,6 +4,27 @@
     <title>lundekvam.io</title>
     <link>https://lundekvam.io/</link>
     <description>Recent content on lundekvam.io</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://lundekvam.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Sep 2021 10:00:01 +0200</lastBuildDate><atom:link href="https://lundekvam.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tilfeldige skjellsord</title>
+      <link>https://lundekvam.io/posts/tilfeldige-skjellsord/</link>
+      <pubDate>Mon, 13 Sep 2021 10:00:01 +0200</pubDate>
+      
+      <guid>https://lundekvam.io/posts/tilfeldige-skjellsord/</guid>
+      <description>Tilfeldige skjellsord Utvik ordforrådet ditt med et tilfeldig skjellsord! skjellsord.tips</description>
+    </item>
+    
+    <item>
+      <title>FPL Leagues</title>
+      <link>https://lundekvam.io/posts/fantasy-pl/</link>
+      <pubDate>Fri, 11 Sep 2020 09:12:49 +0200</pubDate>
+      
+      <guid>https://lundekvam.io/posts/fantasy-pl/</guid>
+      <description>FPL Leagues Explored the FPL apis and created a small app to view leagues. Enter the league id in the top right corner. https://football-charts.com/fpl/league/
+Some of the ones I&amp;rsquo;m in;
+https://football-charts.com/fpl/league/1051231 https://football-charts.com/fpl/league/383301 </description>
+    </item>
+    
   </channel>
 </rss>

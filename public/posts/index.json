@@ -1,0 +1,19 @@
+[
+    {
+        "ref": "https://lundekvam.io/posts/tilfeldige-skjellsord/",
+        "title": "Tilfeldige skjellsord",
+        "section": "posts",
+        "tags": null,
+        "date" : "2021.09.13",
+        "body": "Tilfeldige skjellsord Utvik ordforrådet ditt med et tilfeldig skjellsord! skjellsord.tips\n"
+    }
+,
+    {
+        "ref": "https://lundekvam.io/posts/fantasy-pl/",
+        "title": "FPL Leagues",
+        "section": "posts",
+        "tags": null,
+        "date" : "2020.09.11",
+        "body": "FPL Leagues Explored the FPL apis and created a small app to view leagues. Enter the league id in the top right corner. https://football-charts.com/fpl/league/\nSome of the ones I\u0026rsquo;m in;\nhttps://football-charts.com/fpl/league/1051231 https://football-charts.com/fpl/league/383301 "
+    }
+]

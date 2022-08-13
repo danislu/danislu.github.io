@@ -18,7 +18,7 @@ hasCJKLanguage = true
     description = """
         Software Engineer / Architect / Tech Lead
     """
-    publicationYear = "2022"
+    # publicationYear = "2022"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]
