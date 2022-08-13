@@ -34,7 +34,7 @@ preserveTaxonomyNames = true
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
     subtitle = "Techlead / Architect / Developer"         # Subtitle
     cdn_url = ""           # Base CDN URL
-    # home_mode = "about" # post or other
+    home_mode = "about" # post or other
     
 [params.social]
     GitHub = "danislu"
