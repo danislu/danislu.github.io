@@ -51,8 +51,15 @@ hasCJKLanguage = true
     weight = 30
 
 [[menu.main]]
+    identifier = "linkedin"
+    pre = "<i class='fab fa-linkedin-in'></i>"
+    url = "https://www.linkedin.com/in/daniellundekvam/"
+    weight = 40
+
+[[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:daniel@lundekvam.io"
-    weight = 40
+    weight = 50
+
