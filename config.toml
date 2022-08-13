@@ -23,10 +23,10 @@ preserveTaxonomyNames = true
 #    name = "Blog"
 #    url = "/posts/"
 #    weight = 1
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
+#  [[menu.main]]
+#    name = "About"
+#    url = "/about/"
+#    weight = 4
 
 [params]
     since = 2011
@@ -34,11 +34,11 @@ preserveTaxonomyNames = true
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
     subtitle = "Techlead / Architect / Developer"         # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "about" # post or other
+    # home_mode = "about" # post or other
     
 [params.social]
     GitHub = "danislu"
     Linkedin = "daniellundekvam"
     Twitter = "danislu"
-    Email   = "danislu@gmail.com"
+    Email   = "daniel@lundekvam.io"
     Instagram = "danislu2"
