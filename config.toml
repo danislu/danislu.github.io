@@ -12,9 +12,9 @@ hasCJKLanguage = true
 
 [params]
     author = "Daniel Lundekvam"
-    avatar = "me.png"
+    avatar = "me2.jpeg"
     # avatarDescription = "My avatar description"
-    favicon = "me.png"
+    favicon = "me2.jpeg"
 #    description = """
 #        Tech Lead / Architect / Software Engineer
 #    """
