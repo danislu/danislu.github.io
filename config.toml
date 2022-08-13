@@ -15,9 +15,9 @@ hasCJKLanguage = true
     avatar = "me.png"
     # avatarDescription = "My avatar description"
     favicon = "me.png"
-    description = """
-        Tech Lead / Architect / Software Engineer
-    """
+#    description = """
+#        Tech Lead / Architect / Software Engineer
+#    """
     # publicationYear = "2022"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
