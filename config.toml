@@ -36,12 +36,12 @@ hasCJKLanguage = true
 #    url = "/blog/"
 #    weight = 10
 
-[[menu.main]]
-    identifier = "twitter"
-    # name = "Twitter"
-    pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/danislu"
-    weight = 20
+#[[menu.main]]
+#    identifier = "twitter"
+#    # name = "Twitter"
+#    pre = "<i class='fab fa-twitter fa-lg'></i>"
+#    url = "https://twitter.com/danislu"
+#    weight = 20
 
 [[menu.main]]
     identifier = "github"
